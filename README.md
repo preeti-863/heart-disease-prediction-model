@@ -1,22 +1,48 @@
-# heart-disease-prediction-model
-ML classification model for predicting heart disease risk.
-## Results
-### Model Performance(from Python File)
-**Logistic Regression**
--Accuracy: 0.7138571428571429
--Precision: 0.7315675340768277
--Recall: 0.6751000571755289
--F1 Score: 0.7022004162949748
-**Decision Tree**
--Accuracy: 0.6303571428571428
--Precision: 0.6294979377044517
--Recall: 0.6326472269868496
--F1 Score: 0.6310686533114708
-**Random Forest**
--Accuracy: 0.7131428571428572
--Precision: 0.7198288580702272
--Recall: 0.6973985134362493
--F1 Score: 0.7084361841149993
+# ❤️ Heart Disease Prediction Model
+
+A Machine Learning classification project that predicts the risk of heart disease using patient health parameters such as age, cholesterol, blood pressure, chest pain type, and other medical attributes.
+
+---
+
+## 📌 Project Overview
+
+This project uses multiple Machine Learning algorithms to analyze medical data and predict whether a patient is likely to have heart disease. A user-friendly Streamlit web application is also developed for real-time predictions.
+
+---
+
+## 🚀 Technologies Used
+
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Streamlit  
+- Matplotlib / Seaborn  
+
+---
+
+## 📊 Model Performance
+
+### Logistic Regression
+- Accuracy: **71.39%**
+- Precision: **73.16%**
+- Recall: **67.51%**
+- F1 Score: **70.22%**
+
+### Decision Tree
+- Accuracy: **63.04%**
+- Precision: **62.95%**
+- Recall: **63.26%**
+- F1 Score: **63.11%**
+
+### Random Forest
+- Accuracy: **71.31%**
+- Precision: **71.98%**
+- Recall: **69.74%**
+- F1 Score: **70.84%**
+
+---
+
 **Model Comparison:**
 
 |  |               Model | Accuracy | Precision  |  Recall    | F1-Score
@@ -27,7 +53,30 @@ ML classification model for predicting heart disease risk.
 
 ### Streamlit App
 ![App Screenshot]
-<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/360c808d-a732-48eb-b80f-90a86f644df4" />
+<img width="1900" height="921" alt="image" src="https://github.com/user-attachments/assets/2a2ed7b5-fb37-4bc5-91f4-816b5564d15c" />
 
-The model achieves ~85% accuracy on the test set. It can predict whether a patient has heart disease 
-based on features such as age, cholesterol, blood pressure, etc.
+<img width="1891" height="911" alt="image" src="https://github.com/user-attachments/assets/c2f42fec-49e2-4a94-8e36-e68694aec288" />
+
+<img width="1885" height="912" alt="image" src="https://github.com/user-attachments/assets/3ecfee27-6245-495d-b909-e998b05b3649" />
+
+<img width="1892" height="857" alt="image" src="https://github.com/user-attachments/assets/99ca873f-9722-45ae-980d-24e0407c4420" />
+
+## 🎯 Key Features
+- Predicts heart disease risk instantly
+- Easy-to-use web interface
+- Multiple ML model comparison
+- Real-time patient data input
+- Fast and accurate predictions
+  
+---
+
+## 🔮 Future Improvements
+- Improve model accuracy with advanced algorithms
+- Deploy project online
+- Add patient report download option
+- Use deep learning models
+  
+---
+
+## 📌 Conclusion
+This project demonstrates how Machine Learning can assist in early heart disease prediction and support healthcare decision-making through intelligent systems.
