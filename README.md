@@ -57,6 +57,7 @@ This project uses multiple Machine Learning algorithms to analyze medical data a
 
 <img width="1891" height="911" alt="image" src="https://github.com/user-attachments/assets/c2f42fec-49e2-4a94-8e36-e68694aec288" />
 
+
 <img width="1885" height="912" alt="image" src="https://github.com/user-attachments/assets/3ecfee27-6245-495d-b909-e998b05b3649" />
 
 <img width="1892" height="857" alt="image" src="https://github.com/user-attachments/assets/99ca873f-9722-45ae-980d-24e0407c4420" />
